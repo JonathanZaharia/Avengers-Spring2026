@@ -1,3 +1,9 @@
     I figured it would be cool to have a place to jot down notes about the project,
     so here we are.  This file can be used to add notes about changes we made or  ideas we have.
     -Jonathan Zaharia
+
+    Removed .idea/ folder and .gitignore from the repo tracking.
+    These are IntelliJ-generated files specific to each person's machine.
+    They are NOT deleted from your computer, just removed from Git tracking.
+    The .gitignore has been updated so they won't be re-added accidentally.
+    -Leena Saeed
